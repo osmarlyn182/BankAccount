@@ -1,0 +1,13 @@
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.exe.config
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.exe
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.pdb
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.csproj.AssemblyReference.cache
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.Form1.resources
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.Properties.Resources.resources
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.csproj.GenerateResource.cache
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.exe
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.pdb
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.BankAccountinfo.resources
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.Deposito.resources
+C:\Users\endyr\source\repos\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.Retiro.resources
